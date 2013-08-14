@@ -1,4 +1,4 @@
-zeecms
+SeeCMS
 ======
 
-ZeeCMS is a Content Management System powered by Zend Framework 2 - Rohit King C.
+SeeCMS is a Content Management System powered by Zend Framework 2 - Rohit King C.
